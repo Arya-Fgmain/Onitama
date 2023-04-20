@@ -50,6 +50,6 @@ It is responsible for:
 Makes use of ONT and Displayer to run the main game loop
 
 
-**Check it Out!**
+## Check it out!
 Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java' to compile all the .java files. Then run 'java ONT_Main.java' to play the game.  
 :100: Enjoy!!! :tada:
