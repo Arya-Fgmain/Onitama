@@ -4,7 +4,7 @@ This game was made by me in collaboration with Tan Guo Xun for our ICS4U CCT in 
 
 ## How is the game designed
 The game was built on Object-Oriented Programming (OOP) principles. The UML diagram outlines the game's components and how they are connected.  
-Find the classes outlined below.
+Find the classes outlined below. Also refer to the Javadoc within the code for detailed descriptions of the functions' mechanics.
 
 **Card**
 Onitama has numerous cards for the players to choose from. Each card has:
