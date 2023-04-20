@@ -10,7 +10,7 @@ Find the classes outlined below.
 Onitama has numerous cards for the players to choose from. Each card has:
 * A given name, for example "Phoenix."  
 * A list of 3-4 possible moves to choose from.
-* A boolean representing whether this card has been played by a player or not
+* A boolean representing whether this card has been played by a player or not.
 
 **Piece**
 There are 13 pieces for every player, consisting of 1 master (resembling the King in chess) and 12 students. Each Piece has:
@@ -51,6 +51,5 @@ Makes use of ONT and Displayer to run the main game loop
 
 
 **Check it Out!**
-Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java'  
-to compile all the .java files. Then run 'java ONT_Main.java' to play the game.  
+Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java' to compile all the .java files. Then run 'java ONT_Main.java' to play the game.  
 :100: Enjoy!!! :tada:
