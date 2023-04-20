@@ -1,3 +1,5 @@
+<img width="466" alt="Screenshot 2023-04-19 at 8 41 27 PM" src="https://user-images.githubusercontent.com/97604329/233252460-f8c4e74f-1733-4d20-8aa9-80c8eae0622d.png">
+
 # So what's Onitama? :boom:
 It's a Java adaptation of the board game of the same name. Refer to this link here if you wanna check it out: https://www.arcanewonders.com/product/onitama/. 
 This game was made by me in collaboration with Tan Guo Xun for our ICS4U CCT in late 2021.
