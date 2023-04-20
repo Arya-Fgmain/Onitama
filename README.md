@@ -4,6 +4,7 @@ This game was made by me in collaboration with Tan Guo Xun for our ICS4U CCT in 
 
 ## How is the game designed
 The game was built on Object-Oriented Programming (OOP) principles. The UML diagram outlines the game's components and how they are connected.  
+Find the classes outlined below.
 
 **Card**
 Onitama has numerous cards for the players to choose from. Each card has:
@@ -11,7 +12,7 @@ Onitama has numerous cards for the players to choose from. Each card has:
 * A list of 3-4 possible moves to choose from.
 * A boolean representing whether this card has been played by a player or not
 
-## The Piece Class
+**Piece**
 There are 13 pieces for every player, consisting of 1 master (resembling the King in chess) and 12 students. Each Piece has:
 * A Piece ID (aka pid) which is used to identify its team (White/Black) and its number. Masters are always numbered 0. Students are numbered 1-12.  
 An example pid would be "W0," which is the White player's master piece.  
