@@ -1,4 +1,4 @@
-# So what's Onitama?  
+# So what's Onitama? :boom:
 It's a Java adaptation of the board game of the same name. Refer to this link here if you wanna check it out: https://www.arcanewonders.com/product/onitama/. 
 This game was made by me in collaboration with Tan Guo Xun for our ICS4U CCT in late 2021.
 
@@ -45,4 +45,11 @@ It is responsible for:
 * Displaying a player's hand so that they can pick their next move.
 * Printing the game grid in forward & reverse order.
 
+**ONT_Main**  
+Makes use of ONT and Displayer to run the main game loop
 
+
+**Check it Out!**
+Download the .java files. Make sure you have both Java and the Java Development Kit (JDK) installed. In your terminal, run the command 'javac \*.java'  
+to compile all the .java files. Then run 'java ONT_Main.java' to play the game.  
+:100: Enjoy!!! :tada:
